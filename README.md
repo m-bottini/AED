@@ -1,4 +1,4 @@
-# Algoritmos-y-Estructuras-de-Datos
+# AyED
 K1051.
 2022, ANUAL
 89739-4.
